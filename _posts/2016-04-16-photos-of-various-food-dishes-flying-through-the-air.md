@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T20:44:06.327Z'
+datePublished: '2016-08-11T20:45:55.231Z'
 sourcePath: _posts/2016-04-16-photos-of-various-food-dishes-flying-through-the-air.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,12 +19,12 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-11T20:44:05.771Z'
+dateModified: '2016-08-11T20:45:54.414Z'
 title: Photos of Various Food Dishes Flying Through the Air
 app_links: []
 publisher:
-  url: 'http://petapixel.com'
-  name: PetaPixel
+  url: 'http://antiretinal.de'
+  name: antiretinal
   favicon: 'http://petapixel.com/wp-content/themes/petapixel/assets/favicon.ico'
   domain: petapixel.com
 description: >-
