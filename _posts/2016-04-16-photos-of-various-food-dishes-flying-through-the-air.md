@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T20:33:49.508Z'
+datePublished: '2016-08-11T20:44:06.327Z'
 sourcePath: _posts/2016-04-16-photos-of-various-food-dishes-flying-through-the-air.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,8 @@ keywords:
   - feature
 related: []
 author: []
-dateModified: '2016-08-11T20:33:49.042Z'
+via: {}
+dateModified: '2016-08-11T20:44:05.771Z'
 title: Photos of Various Food Dishes Flying Through the Air
 app_links: []
 publisher:
@@ -33,10 +34,9 @@ description: >-
   air as they come together on a plate or in a bowl.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea61b8e6e7eb14f53652b069cde3df0e37aa5826.jpg" /><h1>Photos of Various Food Dishes Flying Through the Air</h1><p>Camden, London-based commercial still life photographer Piotr Gregorczyk likes to play with food and gravity. One concept he has focused on for a number of recent projects is the idea of showing various food dishes flying through the air as they come together on a plate or in a bowl.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5942a516-fe69-4a84-b634-0d54fb2a5893.jpg)
