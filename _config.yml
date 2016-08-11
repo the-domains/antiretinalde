@@ -1,0 +1,14 @@
+layout_spectrum: 0.7892140848562121
+typography_spectrum: 0.4198496378958225
+color:
+  brandStrength: 0.03295048954896629
+  lightness: 0.09089480899274349
+  saturation: 0.599767780629918
+  rhythmicContrast: 0.7331957800779492
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: antiretinal.de
